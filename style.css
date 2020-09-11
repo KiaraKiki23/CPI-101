@@ -1,17 +1,16 @@
 
 body {
 
-background-color: url('https://media.giphy.com/media/dn12b0TGWufPpdoSTv/giphy.gif');
-
-
+background-color: pink ;
 }
 h1 {
-	font-family:verdana
+	font-family:verdana;
+  color : purple;
 }
 p {
-    color:white
+    color:white;
 }
 
 a {
-	color:white
+	color:white ;
 }
